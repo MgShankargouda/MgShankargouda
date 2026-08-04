@@ -81,10 +81,8 @@
 
 
 ## 📊 GitHub Statistics
+https://streak-stats.demolab.com?user=MgShankargouda&theme=tokyonight
 
-![](https://github-readme-stats.vercel.app/api?username=MgShankargouda&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=MgShank
 
 
 # 📫 Connect With Me
