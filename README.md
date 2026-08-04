@@ -1,87 +1,90 @@
 <h1 align="center">Hi 👋, I'm M G Shankar Gouda</h1>
+<h3 align="center">💻 Java Full Stack Developer | 🎓 CSE Student | 🚀 Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;AWS+Cloud+Learner;Open+Source+Enthusiast;Welcome+to+My+GitHub!" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MgShankargouda&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Always+Learning+New+Technologies!" />
 </p>
 
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 BE Computer Science Engineering Student
-
-💻 Java Full Stack Developer
-
-🌱 Currently Learning Spring Boot, React, Docker & AWS
-
-🚀 Interested in Software Engineering & Web Development
-
-📍 Karnataka, India
+- 🎓 BE Computer Science Engineering Student
+- 💻 Passionate Java Full Stack Developer
+- 🌱 Currently Learning Spring Boot, React, Docker & AWS
+- 🚀 Interested in Web Development & Software Engineering
+- 📍 Karnataka, India
 
 
-# 🚀 Tech Stack
+## 🚀 Technologies & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,python,c,cpp,mysql,git,github,docker,aws,vscode,linux&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,python,c,cpp,mysql,git,github,docker,aws,vscode&perline=8" />
 </p>
 
 
-# 📊 GitHub Stats
+## 💻 Programming Languages
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MgShankargouda&show_icons=true&theme=tokyonight"/>
+- ☕ Java
+- 🐍 Python
+- 💙 C
+- 💜 C++
+- 💛 JavaScript
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MgShankargouda&layout=compact&theme=tokyonight"/>
-</p>
+## 🌐 Frontend
 
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=MgShankargouda&theme=tokyonight"/>
-</p>
-
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MgShankargouda&theme=tokyo-night"/>
-</p>
+- HTML5
+- CSS3
+- JavaScript
+- React.js
 
 
-# 🏆 GitHub Trophies
+## ⚙️ Backend
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MgShankargouda&theme=onedark&margin-w=15&margin-h=15"/>
-</p>
+- Java
+- Spring Boot
+- REST APIs
 
----
 
-# 💼 Projects
+## 🗄️ Database
 
-📢 Digital Notice Board
+- MySQL
 
-📝 Quiz System
+
+## ☁️ Cloud & DevOps
+
+- AWS
+- Docker
+- Git & GitHub
+
+## 📂 Projects
+
+ 📢 Digital Notice Board
+- College Notice Management System
+- HTML, CSS, JavaScript
+
+ 📝 Quiz System
+- Online Quiz Application
+- Java Project
 
 🤖 Machine Learning Project
+- Python
+- Scikit-Learn
 
-🌐 Portfolio Website
+
+## 📜 Certifications
+
+- ✅ Java Full Stack Development
+- ✅ Spring Boot
+- ✅ Python Programming
+- ✅ Git & GitHub
+- ✅ AWS Fundamentals
 
 
-# 📜 Certifications
+## 📊 GitHub Statistics
 
-✅ Java Full Stack Development
+![](https://github-readme-stats.vercel.app/api?username=MgShankargouda&show_icons=true&theme=tokyonight)
 
-✅ Spring Boot
-
-✅ Python Programming
-
-✅ AWS Fundamentals
-
-✅ Git & GitHub
+![](https://github-readme-streak-stats.herokuapp.com/?user=MgShank
 
 
 # 📫 Connect With Me
