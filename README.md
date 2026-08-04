@@ -81,6 +81,9 @@
 
 
 ## 📊 GitHub Statistics
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MgShankargouda&theme=tokyo-night)
 ## 🔥 GitHub Streak
 
 <p align="center">
