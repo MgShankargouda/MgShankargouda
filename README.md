@@ -81,8 +81,11 @@
 
 
 ## 📊 GitHub Statistics
-https://streak-stats.demolab.com?user=MgShankargouda&theme=tokyonight
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MgShankargouda&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 
 # 📫 Connect With Me
